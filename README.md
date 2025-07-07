@@ -1,12 +1,12 @@
 # 📕 Coffee Shop App
 
-#### The Library Specialty Coffee
+### The Library Specialty Coffee
 I'm not much of a coffee drinker, but The Library delivered one of the best coffee experiences I've ever had. Right now, they're a small, single-location cafe, but let's imagine they scaled up and wanted a mobile app to match the quality of their in-store service. This project builds a simple database system for The Library that can handle their day to day operations.
 
-#### ERD:
+### ERD:
 ![ERD](./assets/ERD.png)
 
-#### Table Design
+### Table Design
 - **Customers**: Stores user profile and login information
 - **Items**: Stores all products sold by the shop
 - **Categories**: Groups items into their various types, for e.g. "Coffee", "Tea", "Baked Goods", etc.
@@ -19,8 +19,7 @@ I'm not much of a coffee drinker, but The Library delivered one of the best coff
 - **LoyaltyPoints**: Tracks each customer's loyalty program enrollment and points balance.
 - **Promotions**: Time-bound discounts 
 
-
-#### Tools
+### Tools
 - **MySQL**: Backend schema and queries
 - **Figma**: Frontend UI design and flow (coming soon)
 
