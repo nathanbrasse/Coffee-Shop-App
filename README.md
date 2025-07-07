@@ -1,11 +1,7 @@
-# Coffee Shop App
+# 📕 Coffee Shop App
 
-Making some changes. Will be back soon.
-
-<!--
-The Library Specialty Coffee
-
-I'm not much of a coffee drinker, but The Library delivered one of the best coffee experiences I've ever had. Right now, they're a small, single-location cafe, but let's imagine they scaled up and wanted a mobile app to match the quality of their in-store service. This project builds a simple backend system for The Library that's ready for growth, personalization and a pleasant customer experience. 
+#### The Library Specialty Coffee
+I'm not much of a coffee drinker, but The Library delivered one of the best coffee experiences I've ever had. Right now, they're a small, single-location cafe, but let's imagine they scaled up and wanted a mobile app to match the quality of their in-store service. This project builds a simple database system for The Library that can handle their day to day operations.
 
 #### ERD:
 ![ERD](./assets/ERD.png)
@@ -25,8 +21,7 @@ I'm not much of a coffee drinker, but The Library delivered one of the best coff
 
 
 #### Tools
-- **MySQL**: Backend schema, queries and business logic
+- **MySQL**: Backend schema and queries
 - **Figma**: Frontend UI design and flow (coming soon)
 
--->
 
