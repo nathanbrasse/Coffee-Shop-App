@@ -23,4 +23,6 @@ I'm not much of a coffee drinker, but The Library delivered one of the best coff
 - **MySQL**: Backend schema and queries
 - **Figma**: Frontend UI design and flow (coming soon)
 
+### How it Works:
+When someone buys an item in the app, the frontend sends a request to the backend via an API endpoint. This backend receives the request, validates the data, calculates the totals and final values, then executes the SQL commands to insert the order and related details into the database. The SQL backend, built here, stores the information permanently and the backend sends a response back to the frontend (order confirmation) and will update the app to show this. 
 
